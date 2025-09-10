@@ -1,1 +1,0 @@
-# Notas de Fundamentos de Análisis Topológico de Datos
