@@ -1,0 +1,13 @@
+# Archivos temporales de LaTeX que no deben subirse
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Archivos de backup o temporales
+*~
